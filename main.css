@@ -12,6 +12,7 @@ img{
     border:solid 5px lightgrey;
     padding: 5px;
     float :right;
+    margin: 0 0 0 15px;
 }
 .link {
     color: rgb(0, 248, 186);
