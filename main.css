@@ -1,0 +1,45 @@
+body {
+    text-align: center;
+    background-color: rgb(42, 37, 37);
+    border: solid 5px lightgrey;
+    padding: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    letter-spacing: .5px;
+    line-height: 20pt;
+}
+img{
+    border:solid 5px lightgrey;
+    padding: 5px;
+    float :right;
+}
+.link {
+    color: rgb(0, 248, 186);
+    font-weight: 1000;
+    font-weight: bold;
+    text-align: center;
+}
+span {
+    text-align: left;
+}
+.centered{
+    text-align: center;
+}
+a:link{
+    color: rgb(0, 248, 186);
+
+}
+a:visited{
+    color: rgb(0, 248, 186);
+
+}
+.resume-body{
+    background-color: rgb(42, 37, 37);
+    padding: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    text-align: left;
+}
+.Grey-title{
+    color: grey;
+}
