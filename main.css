@@ -1,5 +1,4 @@
 body {
-    text-align: left;
     background-color: rgb(42, 37, 37);
     border: solid 5px lightgrey;
     padding: 40px;
@@ -25,6 +24,9 @@ span {
 }
 .centered{
     text-align: center;
+}
+.left{
+    text-align: left;
 }
 a:link{
     color: rgb(0, 248, 186);
